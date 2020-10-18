@@ -1,0 +1,22 @@
+{
+  "name": "mcaravati",
+  "version": "1.0.0",
+  "description": "<!--\r **mcaravati/mcaravati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcaravati/mcaravati.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcaravati/mcaravati/issues"
+  },
+  "homepage": "https://github.com/mcaravati/mcaravati#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
